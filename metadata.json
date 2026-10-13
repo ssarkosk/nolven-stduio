@@ -1,0 +1,6 @@
+{
+  "name": "Nolven Studio — Revoice",
+  "description": "AI-assisted personal voice adaptation for authorized video dialogue. Reimagine dialogue in your voice with cinematic timing and emotional delivery.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
